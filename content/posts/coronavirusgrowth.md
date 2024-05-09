@@ -10,5 +10,5 @@ To make it easier to compare how COVID-19 is affecting different countries
 I created these [population-adjusted graphs][1].
 
 
-[0]: img/covidgrowth.png
-[1]: https://old.eamonn.org/covidgrowth/
+[0]: /img/covidgrowth.png
+[1]: /covidgrowth

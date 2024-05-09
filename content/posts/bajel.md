@@ -171,7 +171,7 @@ If you have any feedback, feel free to [add a GitHub issue][6], or reach out to 
 *Naming note:  "Bajel" is Bazel, but with a "j" for JavaScript. It is pronounced /ba-hel/ in the Spanish fashion, as it is a Spanish word for a sailing ship such the [Santa Ana][9], which is pictured at the top of this post.*
 
 
-[0]: img/bajel.jpg
+[0]: /img/bajel.jpg
 [1]: https://github.com/eobrain/nrby/blob/master/Makefile
 [2]: https://eamonn.org/programming/2010/11/12/hudson-and-play-e2-80-93-how-to-configure-hudson-for-continuous-integration-of-play-framework-web-applications.html
 [3]: https://bazel.build/
