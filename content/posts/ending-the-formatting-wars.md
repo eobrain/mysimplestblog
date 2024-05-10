@@ -5,7 +5,7 @@ created: 2020-01-26 08:00:00+00:00
 ---  
 [![standard JS logo][0]][7]
 
-[0]: img/standard-js-sticker.svg
+[0]: /img/standard-js-sticker.svg
 
 > War is over, if you want it
 >

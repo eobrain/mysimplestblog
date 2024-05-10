@@ -13,9 +13,9 @@ It's pretty easy to get the effect with a CSS `box-shadow`, and thanks to [@adam
 
 I also decided to give this blog a name. "Yak Shavings" seems appropriate, since a lot of the technical things I write about here are the result of me happily going off on repeatedly nested tangents as I noodle on my side projects. 
 
-[0]: img/reskin-small.png
+[0]: /img/reskin-small.png
 [1]: https://www.google.com/search?q=Neumorphic
 [2]: https://neumorphism.io/#f5f1ef
 [3]: https://twitter.com/adam_giebl
-[4]: https://old.eobrain.com
+[4]: https://old.eamonn.org
 
