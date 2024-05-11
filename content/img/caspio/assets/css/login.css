@@ -1,0 +1,54 @@
+.login-container {
+    margin: 50px 0px 0px 0px;
+}
+
+.forgot-password-container {
+    margin: 10px 0px 0px 0px;
+}
+
+table[role="presentation"],
+table[data-cb-name="cbTable"] {
+    width: 100% !important;
+    margin: auto;
+}
+
+input[type="submit"] {
+    width: 100% !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+table[data-cb-name="cbTable"] td {
+    padding: 5px !important;
+}
+
+
+.login {
+    margin-top: 76px;
+}
+
+.login-wrapper {
+    margin-top: 20px;
+    height: fit-content;
+}
+
+.login-div {
+    min-width: 450px;
+    max-width: 450px;
+    margin-top: -70px;
+}
+
+a {
+    color: #0079E2 !important;
+}
+
+.cred-div {
+    background-color: #f2f3f8;
+    font-size: 13px;
+    padding: 0.7rem !important;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+    height: 40px !important;
+}
