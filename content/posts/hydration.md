@@ -6,7 +6,7 @@ created: 2019-09-28 07:00:00+00:00
 ![Figure 3 of paper by Maughan et al "BHIs for 13 commonly consumed and commercially available drinks after correction for water content of drink ingested.", with added red line][0]
 ---
 
-[0]: /img/hydration.webp
+[0]: img/hydration.webp
 
 I was intrigued enough by an article on hydration, [Which drink is best for hydration? Hint: It isn't water][1], which appeared in my news feeds that I dug up the original paper, [A randomized trial to assess the potential of different beverages to affect hydration status: development of a beverage hydration index][2], which seems to be from legit scientists, so I tweeted about it:
 

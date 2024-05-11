@@ -29,4 +29,4 @@ The templates uses two M4 files:
 [2]: https://github.com/eobrain/webhome/blob/75e9de1daa37c5129c10a6cd05074326d41a27ec/templates/2018-08-21.html
 [3]: https://github.com/eobrain/webhome/blob/75e9de1daa37c5129c10a6cd05074326d41a27ec/templates/lib.html
 [4]: https://github.com/eobrain/webhome/blob/75e9de1daa37c5129c10a6cd05074326d41a27ec/templates/data.m4
-[5]: /old/2018-10-06.html
+[5]: https://old.eamonn.org/old/2018-10-06.html

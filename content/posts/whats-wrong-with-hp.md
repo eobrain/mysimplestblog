@@ -5,7 +5,7 @@ created: 2016-11-07 08:00:00+00:00
 ---  
 ![fissioning HP logo][0]
 
-[0]: /img/1_9JTWGej6L6qab8STaaK16g.webp
+[0]: img/1_9JTWGej6L6qab8STaaK16g.webp
 
 
 What is wrong with HP that would spur its announced fission into two daughter companies? My view from the technology trenches is different from what I am reading in the business press.
