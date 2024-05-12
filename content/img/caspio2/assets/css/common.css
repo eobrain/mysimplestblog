@@ -1,0 +1,412 @@
+body {
+    font-family: Nunito !important;
+}
+
+body.public {
+    background-color: #004AAA !important;
+}
+
+body.modal-open {
+    height: 100vh !important;
+    overflow-y: hidden !important;
+    padding-right: 17px !important;
+    position: fixed !important;
+    width: 100% !important;
+}
+
+html {
+    -webkit-overflow-scrolling: touch;
+    overflow: scroll;
+}
+
+body,
+.cbResultSetData,
+.cbResultSetRecordMessage,
+.cbResultSetLabelLink,
+tspan,
+text,
+label,
+button,
+select,
+input,
+textarea,
+a,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+td,
+th,
+div,
+title,
+svg,
+time,
+p {
+    font-family: Nunito !important;
+}
+
+
+
+#topbar {
+    background-color: #f8f9fc;
+}
+
+.caspio-blue-color {
+    background-color: #005883;
+}
+
+table[data-cb-name="cbTable"] tbody tr[data-cb-name="header"] th,
+.dropdown-item.active,
+.dropdown-item:active,
+.btn-primary,
+.cbResultSetAddButton,
+.cbLoginButton,
+.cbPasswordResetButton,
+.cbUpdateButton {
+    background: #0079E2 !important;
+}
+
+
+
+.cbResultSetAddButton:hover,
+.btn-primary:hover,
+.cbLoginButton:hover,
+.cbPasswordResetButton:hover {
+    background: #0376D9 !important;
+}
+
+.page-header {
+    color: #005883 !important;
+}
+
+.loader {
+    position: absolute;
+    height: 100%;
+    background: rgb(255, 255, 255, .7);
+    z-index: 9999;
+    width: 100%;
+    display: none;
+}
+
+.loader img {
+    top: 35%;
+    left: 50%;
+    position: fixed;
+}
+
+#nav-user-fullname {
+    color: #000 !important;
+}
+
+.user-icon {
+    background: #f2f2f2 !important;
+}
+
+.content-left-margin-0 {
+    margin-left: 0px !important;
+}
+
+.left-div {
+    width: 16rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.cbUpdateButtonContainer input[name="Mod0EditRecord"] {
+    background-color: #0079E2 !important;
+}
+
+
+
+
+/*--------------------- Public ----------------------*/
+
+.public-wrapper {
+    margin-top: 160px;
+}
+
+.reset-password-wrapper {
+    padding: 20px 40px;
+    height: 546px;
+    overflow: auto;
+}
+
+.login-wrapper {
+    margin-top: 76px;
+    padding: 20px;
+    height: 500px;
+    overflow: auto;
+}
+
+.bg-reset-password-image {
+    background: url('../img/image-4.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-login-image {
+    background: url('../img/image-3.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+form#caspioform>div {
+    width: 100%;
+}
+
+form#caspioform>div>section {
+    width: 100%;
+}
+
+.cbPasswordResetButton,
+.cbLoginButton {
+    width: 100%;
+    margin: 0px !important;
+    text-transform: capitalize !important;
+}
+
+input[type="text"],
+input[type="password"],
+select:not([multiple]) {
+    height: 32px !important;
+}
+
+img.caspio-logo {
+    max-width: 200px;
+    max-height: 50px;
+}
+
+.cbFormData input[name="EditRecordMU_User_PhotoRemove"] {
+    margin: 0 5px;
+}
+
+@media (max-width: 600px) {
+    .public-wrapper>div>div {
+        height: 500px !important;
+    }
+}
+
+
+/*--------------------- Employee Directory ----------------------*/
+
+section[data-cb-name="cbTable"] {
+    background: transparent;
+}
+
+.cb-search-container .cbSubmitButtonContainer,
+.cb-search-container section[data-cb-name="cbTable"]>.cbFormLabelCell {
+    display: none !important;
+}
+
+@media (min-width: 1025px) {
+    .cb-search-container section[data-cb-name="cbTable"] {
+        display: block;
+    }
+
+    .cb-search-container section[data-cb-name="cbTable"]>div {
+        grid-row: none;
+        grid-column: none;
+        grid-auto-columns: unset;
+    }
+
+    .cb-search-container section[data-cb-name="cbTable"]>div>div {
+        float: left;
+    }
+}
+
+.cbResultSetActionCell a[data-cb-name="DetailsLink"] {
+    background-color: #36b9cc;
+    border-color: #36b9cc;
+}
+
+.cbSubmitButtonContainer .cbSubmitButton {
+    background-color: #0079E2 !important;
+    border-color: #0079E2 !important;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.cbSubmitButtonContainer .cbSubmitButton:hover {
+    background-color: #0376D9 !important;
+    border-color: #0376D9 !important;
+}
+
+.cbResultSetActionCell a[data-cb-name="InlineEdit"],
+input[name$="InlineEdit"],
+.cbBackButtonContainer .cbUpdateButton {
+    background: #F6C23E !important;
+    border-color: #F6C23E !important;
+}
+
+input[name$="InlineEdit"],
+input[name$="InlineEditCancel"] {
+    padding: 2px 10px !important;
+    margin-right: 5px;
+}
+
+.cbResultSetActionCell a[data-cb-name="InlineDelete"],
+.cbBackButtonContainer .cbDeleteButton,
+input[name$="InlineEditCancel"] {
+    background: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.cbResultSetActionCell a,
+.btn-info {
+    display: inline-block;
+    font-weight: 400;
+    color: #fff !important;
+    border: 1px solid transparent;
+    padding: 2px 10px !important;
+    font-size: 15px;
+    line-height: 1.5;
+    border-radius: .2rem !important;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.cbBulkFormLabel,
+.cbBulkFormSelect {
+    font-size: 15px !important;
+    color: #000 !important;
+}
+
+.btn-info:hover {
+    background-color: #36b9cc;
+    border-color: #36b9cc;
+}
+
+.cb-result-container {
+    float: left;
+    width: 100%;
+}
+
+.cb-search-button-container {
+    margin-top: 14px;
+}
+
+.cb-search-button-container button {
+    margin-bottom: 10px;
+}
+
+.cbBackButtonContainer .cbUpdateButton,
+.cbBackButtonContainer .cbDeleteButton {
+    color: #fff !important;
+}
+
+.add-button-container {
+    margin-bottom: 15px;
+}
+
+.cb-results-container select.cbResultSetSelect {
+    height: 37px !important;
+}
+
+.cb-results-container .BodyCtnr .Edit select {
+    height: 29.5px !important;
+}
+
+#inlineActions .RAItem span {
+    padding: 5px !important;
+}
+
+#inlineActions .RAItem span .cbResultSetActionsLinks[data-cb-name="DetailsLink"],
+#inlineActions .RAItem span .cbResultSetActionsLinks[data-cb-name="InlineEdit"] {
+    color: #027FAA !important;
+    background-color: transparent;
+}
+
+#inlineActions .RAItem span .cbResultSetActionsLinks[data-cb-name="InlineDelete"] {
+    color: #dc3545 !important;
+    background-color: transparent !important;
+}
+
+
+/* Overrides on gridview to take 100% width Start*/
+
+.cbGridCtnr>.HeadCtnr>.Table {
+    width: 100% !important;
+}
+
+.cbGridCtnr>.BodyCtnr>.Table {
+    width: 100% !important;
+}
+
+
+/* Overrides on gridview to take 100% width End */
+
+.reset-password-wrapper .cbSubmitButton {
+    width: 80% !important;
+    min-width: 80% !important;
+}
+
+@media (min-width: 1025px) and (max-width: 1240px) {
+    .cb-detail-container .cbBackButtonContainer input {
+        margin-top: 5px !important;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 1024px) {
+    #BulkUpdateFormBody section[data-cb-name="cbTable"] {
+        width: 100% !important;
+    }
+
+    .cbFormData input[name="EditRecordMU_User_PhotoRemove"] {
+        margin: 0;
+    }
+}
+
+div:has(.btn-group) {
+    padding-top: 0px !important;
+}
+
+
+.sidebar-brand-text {
+    text-wrap: nowrap !important;
+}
+
+.fw-bold {
+    font-weight: bold !important;
+}
+
+.bg-caspio-primary {
+    background-color: #004AAA;
+}
+
+.text-caspio-primary {
+    color: #0079E2;
+}
+
+.text-caspio-heading {
+    color: #004AAA;
+}
+
+#collapseTwo>div {
+    background-color: #0079E2;
+    color: #fff;
+}
+
+
+.cbResultSetData a {
+    color: #0079E2 !important;
+}
+
+
+
+.custom-col-500{
+    min-width: 500px;
+}
+
+.overflow-x-auto{
+    overflow-x: auto;
+}
+
+#count-div > article{
+    width: 100%;
+}
+
+#count-div > article > div > header{
+    display: flex !important;
+}

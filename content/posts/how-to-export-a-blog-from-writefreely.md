@@ -37,7 +37,7 @@ This creates a `content` directory containing Markdown files of your WriteFreely
 
 One option is to import your Markdown files into a static site generator like [simplestblog][4]. This approach gives you a static backup and an alternate site. For example, this blog is mirrored at [mysimplestblog][5].
 
-# Additional Notes:
+## Additional Notes:
 
 Consider automating the export process for regular backups.
 
