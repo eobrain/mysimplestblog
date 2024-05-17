@@ -2,9 +2,9 @@
 slug: hp-labs-seeking-an-agile-java-contract-web-programmer-to-do-amazing
 title: HP Labs seeking an agile Java contract web programmer to Do Amazing
 created: 2011-02-17 08:00:00+00:00
-image: /img/HPLabs560.gif
+image: img/HPLabs560.gif
 ---  
-![image](/img/HPLabs560.gif)
+![image](img/HPLabs560.gif)
  
 If the following description sounds like you then we should talk.
 

@@ -20,7 +20,7 @@ And now that it’s easier for me to add content, maybe I’ll get around to add
 
 <small>Image attribution Tom Preston-Werner [CC BY 4.0][5]<small>
 
-[0]: /img/Jekyll_%28software%29_Logo.webp
+[0]: img/Jekyll_%28software%29_Logo.webp
 [1]: https://en.wikipedia.org/wiki/M4_(computer_language)
 [2]: https://www.w3.org/Provider/Style/URI
 [3]: https://medium.com/@eob

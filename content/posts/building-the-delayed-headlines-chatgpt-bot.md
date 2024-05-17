@@ -137,4 +137,4 @@ So have a look at @delayedheadlines@botsin.space to see what headlines have been
 [1]: https://eamonn.org/building-a-mastodon-ai-bot
 [2]: https://eamonn.org/unleashing-an-ai-bot-on-mastodon
 [3]: https://github.com/eobrain/thisday
-[4]: https://docs.google.com/drawings/d/12lLK9WctcMcDleUUBgihCPEDfupfK498vo6S3HJZ6zM/export/png
+[4]: https://docs.google.com/drawings/d/e/2PACX-1vQCFKYVY7_EVacaUDBeRNNUgIk1jdr_aU2Wi48ysNj3cd0TEK-jB076tmLPy07lJc0kDIlmMB9_5yPc/pub?w=856&h=507

@@ -2,9 +2,9 @@
 slug: blogpost-02202011-a-m
 title: This is a nice solution for creating live HTML pages by "welding" JSON data
 created: 2011-02-19 08:00:00+00:00
-image: /img/weld.webp
+image: img/weld.webp
 ---  
-![image](/img/weld.webp)
+![image](img/weld.webp)
  
   * [hij1nx/weld - GitHub](https://github.com/hij1nx/weld)
 
