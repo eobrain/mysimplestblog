@@ -4,7 +4,7 @@ title: Learning from Successful Democracy
 created: 2019-01-21 08:00:00+00:00
 ---  
 ![First Dáil, January 21, 1919][0]
-[0]: img/first-dail-in-session.jpg
+[0]: /img/first-dail-in-session.jpg
 
 Today marks exactly one hundred years of Irish democracy. Formed from democratically elected members, the first Dáil (parliament) met on January 21, 1919, in Dublin. It was a promising start, with a woman cabinet member and a Socialist-leaning “Democratic Programme”. But that act of defiance against the British Empire sparked off a war of independence, then fifty years as a conservative confessional state, then thirty years of low-grade guerrilla war to the north.
 

@@ -5,7 +5,7 @@ created: 2016-01-25 08:00:00+00:00
 ---  
 ![Map of the world show areas of with more than 5 people/km²][0]
 
-[0]: img/trimmed-world.png
+[0]: /img/trimmed-world.png
 
 
 The political map of the world is a familiar image, and we have
@@ -66,15 +66,15 @@ And looking at the countries through this lens is an interesting exercise. Let�
 ![trimmed China][13] Although China has a huge population, you can see from this map that almost everyone lives in the Eastern half. The Tibetan areas are very lightly populated, and there is a Western outpost in the Turkic areas bordering the ‘stans.
 
 
-[2]: img/trimmed-australia.png
-[3]: img/trimmed-india.png
-[4]: img/trimmed-kazakhstan.png
-[5]: img/trimmed-ireland.png
-[6]: img/trimmed-uk.png
-[7]: img/trimmed-canada.png
-[8]: img/trimmed-us.png
-[9]: img/trimmed-mexico.png
-[10]: img/trimmed-sa.png
-[11]: img/trimmed-russia.png
-[12]: img/trimmed-egypt.png
-[13]: img/trimmed-china.png
+[2]: /img/trimmed-australia.png
+[3]: /img/trimmed-india.png
+[4]: /img/trimmed-kazakhstan.png
+[5]: /img/trimmed-ireland.png
+[6]: /img/trimmed-uk.png
+[7]: /img/trimmed-canada.png
+[8]: /img/trimmed-us.png
+[9]: /img/trimmed-mexico.png
+[10]: /img/trimmed-sa.png
+[11]: /img/trimmed-russia.png
+[12]: /img/trimmed-egypt.png
+[13]: /img/trimmed-china.png

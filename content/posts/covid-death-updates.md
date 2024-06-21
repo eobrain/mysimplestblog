@@ -5,7 +5,7 @@ created: 2020-07-12 07:00:00+00:00
 ---  
 [![States with highest per-capita Covid death rates][0]][3]
 
-[0]: img/2020-07-10-rankstate.png
+[0]: /img/2020-07-10-rankstate.png
 
 Some highlights from today's graphs of per-capita Covid death-rates:
 

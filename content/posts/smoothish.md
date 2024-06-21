@@ -5,7 +5,7 @@ created: 2020-04-12 07:00:00+00:00
 ---  
 [![Smoothish][0]][2]
 
-[0]: img/smoothish-example.png
+[0]: /img/smoothish-example.png
 
 
 *[Updated 5-May-2020 to change the examples to the new 1.0.0 API.]*

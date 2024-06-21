@@ -5,7 +5,7 @@ created: 2013-09-01 07:00:00+00:00
 ---  
 ![Seamus Heaney Obituary in the New York Times][0]
 
-[0]: /mg/heaney.webp
+[0]: /img/heaney.webp
 
 Today the New York Times marked the death of Seamus
 Heaney with an above-the-fold front page photo, and a long article illustrated with quotes from his work. As I read his beautifully crafted and emotionally powerful lines I mourned our loss, while also feeling some pride that the world was giving such recognition to someone who is my compatriot.
@@ -38,4 +38,4 @@ And this weekend half the city seems to be away in Nevada celebrating that amazi
 
 It feels good that the two cultures are coming together in the two places I love, the place where I live and the place where I am from.
 
-[2]: img/stem-stats.png
+[2]: /img/stem-stats.png
