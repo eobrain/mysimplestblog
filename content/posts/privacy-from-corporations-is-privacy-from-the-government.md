@@ -5,7 +5,7 @@ created: 2013-06-09 07:00:00+00:00
 ---  
 ![image attribution, Frederic-Poirot][0]
 
-[0]: /img/by-Frederic-Poirot.webp
+[0]: img/by-Frederic-Poirot.webp
 
 **What the Internet companies don’t have they can’t give to the NSA**
 

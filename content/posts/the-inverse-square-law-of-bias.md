@@ -46,6 +46,6 @@ $^2$[Why Male Tech Workers Don't See the Gender Gap][2]
 $^3$[The Petrie Multiplier: Why an Attack on Sexism in Tech is NOT
 an Attack on Men][3]
 
-[1]: /img/1_T1ypLwltfW2Xp7jAhRFQFg.png
+[1]: img/1_T1ypLwltfW2Xp7jAhRFQFg.png
 [2]: https://money.com/tech-gender-gap-perception/
 [3]: https://blog.ian.gent/2013/10/the-petrie-multiplier-why-attack-on.html
